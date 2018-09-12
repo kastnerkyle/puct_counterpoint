@@ -33,3 +33,6 @@ For the exceptionally willing, changing the Timidity soundfonts to fluidsynth ca
 
 ## Authors:
 Kyle Kastner | email: kastnerkyle@gmail.com | [@kastnerkyle](http://github.com/kastnerkyle/)
+
+## Acknowledgements:
+Johanna Hansen, for pair programming and debugging the MCTS code with me
